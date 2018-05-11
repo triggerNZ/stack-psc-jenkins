@@ -1,0 +1,3 @@
+A docker image containing jenkins, haskell-stack and purescript.
+
+For builds
